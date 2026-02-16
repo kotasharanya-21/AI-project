@@ -14,6 +14,12 @@ This repository contains simple Python-based AI programs created as part of a le
 - Player plays against the computer
 - Demonstrates game logic, loops, and decision-making
 
+### 3. Image Captioning System
+
+- Uses a pre-trained VGG16 model to extract image features
+- Generates captions for images (demo-based implementation)
+- Demonstrates deep learning and computer vision concepts
+
 ## Technologies Used
 - Python
 
